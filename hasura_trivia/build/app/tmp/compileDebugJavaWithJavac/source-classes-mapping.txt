@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/hasura_trivia/BuildConfig.java
+ com.example.hasura_trivia.BuildConfig

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463940141656",
+    "project_id": "hasura-firebase-24adf",
+    "storage_bucket": "hasura-firebase-24adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463940141656:android:97cf505f053e6fc133402d",
+        "android_client_info": {
+          "package_name": "com.example.hasura_trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463940141656-pec0sl2eug5cm4giu99bedgeo047acrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNibeQrPpa0VVAbiAsBhuxNRM1lSam1Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463940141656-pec0sl2eug5cm4giu99bedgeo047acrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
